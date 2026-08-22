@@ -8,29 +8,9 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+I find well-built open source projects and turn them into small, sustainable products — self-hosted tools, open-core wrappers, developer utilities.
 
-I find well-built open source projects and turn them into small, sustainable products — self-hosted tools, open-core wrappers, developer utilities. I like software that respects its users: no dark patterns, no vendor lock-in, data that stays yours.
-
-Currently building **`<project name>`**.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=octobuilds&show_icons=true&hide_border=true&theme=dark&bg_color=0b132b&title_color=5BC0BE&icon_color=e0fbfc&text_color=e0fbfc" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/-Twitter-0b132b?style=flat-square&logo=x&logoColor=5BC0BE)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0b132b?style=flat-square&logo=linkedin&logoColor=5BC0BE)](#)
-[![Website](https://img.shields.io/badge/-Website-0b132b?style=flat-square&logo=googlechrome&logoColor=5BC0BE)](#)
-
-</div>
+-  spends time digging through repos that are technically great but never got a proper front door
+-  believes the best products are wrapped, not reinvented — the hard engineering already exists, it just needs a way to reach people
+-  no dark patterns, no vendor lock-in — if it holds your data, you should be able to take it with you
+-  small, sustainable, and useful beats big, complicated, and abandoned
