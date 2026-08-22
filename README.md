@@ -1,79 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=octobuilds&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Finding%20good%20ideas%20and%20shipping%20them&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b132b,50:1c2541,100:3a506b&height=200&section=header&text=octobuilds&fontSize=54&fontColor=e0fbfc&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<a href="#"><img src="https://img.shields.io/badge/status-building-brightgreen?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/focus-open%20source%20%E2%86%92%20products-blue?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/github/followers/octobuilds?style=for-the-badge&color=orange&label=followers"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=600&lines=Finding+good+open+source+ideas...;Wrapping+them+into+real+products...;Shipping+one+repo+at+a+time+%F0%9F%90%99" />
 
 </div>
 
 <br/>
 
-### 👋 About me
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-I'm a full-stack developer who finds well-built open source projects and turns them into small, sustainable products. I like tools that respect their users — self-hosted, privacy-first, no dark patterns — and I ship fast.
+### 👋 About
 
-- 🔭 Currently building: `<project name here>`
-- 🌱 Exploring: open-core business models, self-hosted SaaS wrappers
-- 💬 Ask me about: `<your strongest stack, e.g. React, Node, Docker>`
-- 📫 Reach me: `<email or contact link>`
-- 🐙 Fun fact: named after the eight-armed multitasker
+I find well-built open source projects and turn them into small, sustainable products — self-hosted tools, open-core wrappers, developer utilities. I care about software that respects its users: no dark patterns, no vendor lock-in, data that stays yours.
 
-<br/>
+```yaml
+role: full-stack developer
+focus: open source → product
+building: <project name here>
+exploring: open-core models, self-hosted SaaS
+contact: <email or link>
+```
 
-### 🛠️ Tech I work with
+</td>
+<td width="40%" valign="top" align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=octobuilds&show_icons=true&hide_border=true&theme=dark&bg_color=0b132b&title_color=5BC0BE&icon_color=e0fbfc&text_color=e0fbfc" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,postgres,python,git&theme=dark" />
-
-</div>
-
-<br/>
-
-### 📌 Featured projects
-
-<div align="center">
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=octobuilds&repo=REPO_NAME_1&theme=dark&hide_border=true" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=octobuilds&repo=REPO_NAME_2&theme=dark&hide_border=true" /></a>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=octobuilds&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=octobuilds&theme=dark&hide_border=true" />
+### 🧰 Stack
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octobuilds&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-### 🌐 Connect
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Website-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,docker,postgres,python,git,linux&theme=dark" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Building small, useful things — one repo at a time.</sub>
+
+### 📌 Featured
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=octobuilds&repo=REPO_NAME_1&theme=dark&bg_color=0b132b&title_color=5BC0BE&icon_color=e0fbfc&text_color=e0fbfc&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=octobuilds&repo=REPO_NAME_2&theme=dark&bg_color=0b132b&title_color=5BC0BE&icon_color=e0fbfc&text_color=e0fbfc&hide_border=true" /></a>
+
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octobuilds&theme=dark&background=0b132b&stroke=3a506b&ring=5BC0BE&fire=5BC0BE&currStreakLabel=e0fbfc&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/-Twitter-0b132b?style=flat-square&logo=x&logoColor=5BC0BE)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0b132b?style=flat-square&logo=linkedin&logoColor=5BC0BE)](#)
+[![Website](https://img.shields.io/badge/-Website-0b132b?style=flat-square&logo=googlechrome&logoColor=5BC0BE)](#)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3a506b,50:1c2541,100:0b132b&height=60&section=footer" width="100%"/>
